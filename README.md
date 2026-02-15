@@ -1,1 +1,13 @@
 # GedikUNI-BLMS404-nlp-notebooks
+
+
+## WEEK 3
+
+1. [Tokenization_01.ipynb](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/Tokenization_01.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/Tokenization_01.ipynb)
+
+
+2. [Tokenization_Preprocessing_02.ipynb](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/Tokenization_Preprocessing_02.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/Tokenization_Preprocessing_02.ipynb)
