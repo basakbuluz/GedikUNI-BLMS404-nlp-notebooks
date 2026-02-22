@@ -11,3 +11,22 @@
 2. [Tokenization_Preprocessing_02.ipynb](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/Tokenization_Preprocessing_02.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/Tokenization_Preprocessing_02.ipynb)
+
+## WEEK 4
+
+1. [OneHot_Encoding.ipynb](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/OneHot_Encoding.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/OneHot_Encoding.ipynb)
+
+
+2. [CountVectorizer.ipynb](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/CountVectorizer.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/CountVectorizer.ipynb)
+
+3. [BoW.ipynb](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/BoW.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/BoW.ipynb)
+
+4. [TF_IDF.ipynb](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/BoW.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/TF_IDF.ipynb)
