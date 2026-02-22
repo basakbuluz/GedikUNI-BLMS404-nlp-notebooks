@@ -27,6 +27,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/BoW.ipynb)
 
-4. [TF_IDF.ipynb](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/BoW.ipynb)
+4. [TF_IDF.ipynb](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/TF_IDF.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/TF_IDF.ipynb)
