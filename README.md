@@ -37,3 +37,7 @@
 1. [Word2vec_TR_Analysis.ipynb](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/Word2vec_TR_Analysis.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basakbuluz/GedikUNI-BLMS404-nlp-notebooks/blob/main/notebooks/Word2vec_TR_Analysis.ipynb)
+
+Model dosyasına erişmak için aşağıdaki bağlantıyı kullanabilirsiniz: 
+
+https://drive.google.com/file/d/1YJshZskpwBZ5qxdzGweWNPO3SE5chnBs/view?usp=sharing
